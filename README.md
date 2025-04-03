@@ -1,23 +1,23 @@
-# ❗CSC226 Final Project
+# CSC226 Final Project
 
 ## Instructions
 
-❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which 
-  they accompany. (This means that your final README should have no ❗️in it!)
+Exclamation Marks indicate action items; you should remove these emoji as you complete/update the items which 
+  they accompany. (This means that your final README should have no in it!)
 
-❗️**Author(s)**: Your name(s) here
+**Author(s)**: Cade Allen, Briana Nshimirimana
 
-❗️**Google Doc Link**: Your link here
+**Google Doc Link**: Google Doc in other branch
 
 ---
 
 ## Milestone 1: Setup, Planning, Design
 
-❗️**Title**: `What is the title of your project? Be creative! Replace this block of text.`
+**Title**: `Sneaky Snake`
 
-❗**Purpose**: `In a single sentence, describe WHAT your project will do. Replace this block of text.`
+**Purpose**: `A classic game of snake where you try to eat apples without touching the body.`
 
-❗️**Source Assignment(s)**: `List which original assignments you will base your project on? Replace this block of text.`
+️**Source Assignment(s)**: `T11 and T12`
 
 ❗️**CRC Card(s)**:
   - Create a CRC card for each class that your project will implement.
@@ -27,17 +27,17 @@
     README. You can do this by saving an image in the repository and linking to it. See the sample CRC card below - 
     and REPLACE it with your own:
   
-![Don't leave me in your README!](image/crc.png "Image of CRC card as an example. Upload your CRC card(s) in place of this one. ")
+![Don't leave me in your README!](https://docs.google.com/document/d/1BvdCuQTfPH5omY4bG-m5JHoShL1dy_Q6IjuQnyrNBgo/edit?usp=sharing)
 
-❗️**Branches**: This project will **require** effective use of git. 
+**Branches**: This project will **require** effective use of git. 
 
 Each partner should create a branch at the beginning of the project, and stay on this branch (or branches of their 
 branch) as they work. When you need to bring each others branches together, do so by merging each other's branches 
 into your own, following the process we've discussed in previous assignments, then re-branching out from the merged code.  
 
 ```
-    Branch 1 starting name: _____________
-    Branch 2 starting name: _____________
+    Branch 1 starting name: nshimirimanao
+    Branch 2 starting name: allenc2
 ```
 
 ### References 
