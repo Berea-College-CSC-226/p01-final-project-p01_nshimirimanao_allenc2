@@ -5,15 +5,16 @@
 ❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which 
   they accompany. (This means that your final README should have no ❗️in it!)
 
-❗️**Author(s)**: Your name(s) here
+**Author(s)**: Cade Allen & Briana Nshimirimana
 
-❗️**Google Doc Link**: Your link here
+**Google Doc Link**: https://docs.google.com/document/d/1oLwXd286w14zDXONdglwq0IruwoGnN_kT3aUklyMdXw/edit?usp=sharing
+
 
 ---
 
 ## Milestone 1: Setup, Planning, Design
 
-❗️**Title**: `What is the title of your project? Be creative! Replace this block of text.`
+**Title**: `Sneaky Snake`
 
 ❗**Purpose**: `In a single sentence, describe WHAT your project will do. Replace this block of text.`
 
@@ -36,7 +37,7 @@ branch) as they work. When you need to bring each others branches together, do s
 into your own, following the process we've discussed in previous assignments, then re-branching out from the merged code.  
 
 ```
-    Branch 1 starting name: _____________
+    Branch 1 starting name: nshimirimanao_allenc2
     Branch 2 starting name: _____________
 ```
 
