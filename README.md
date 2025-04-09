@@ -46,7 +46,12 @@ Throughout this project, you will likely use outside resources. Reference all id
 and describe how you integrated the ideas or code into your program. This includes online sources, people who have 
 helped you, AI tools you've used, and any other resources that are not solely your own contribution. Update this 
 section as you go. DO NOT forget about it!
-
+```
+T12
+T11
+H11
+H07
+```
 ---
 
 ## Milestone 2: Code Setup and Issue Queue
