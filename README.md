@@ -62,7 +62,9 @@ Reflect on what you’ve done so far. How’s it going? Are you feeling behind/a
 What has surprised you so far? Describe your general feelings. Be honest with yourself; this section is for you, not me.
 
 ```
-    **Replace this text with your reflection
+    I'm honestly on the fense right now. I'm halway between this is too easy and maybe this is more complicated than I 
+    thought. THere's exact tutorials online but I don't want to just copy that code so I havent been looking at them.
+    I'm still enjoying trying to make it work though.
 ```
 
 ---
