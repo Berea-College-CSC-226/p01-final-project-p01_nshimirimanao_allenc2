@@ -51,6 +51,10 @@ T12
 T11
 H11
 H07
+For code formatting:
+https://www.youtube.com/watch?v=_-KjEgCLQFw&ab_channel=CoderSpace
+For the idea:
+https://www.youtube.com/watch?v=wFvuaauQYwI&ab_channel=TechwithMike 
 ```
 ---
 
